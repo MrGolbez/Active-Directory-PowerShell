@@ -1,4 +1,4 @@
-﻿# ----- Edit these Variables for your own Use Case ----- #
+﻿# ----- Edit these Variables as needed ----- #
 $PASSWORD_FOR_USERS   = "Password1"
 $USER_FIRST_LAST_LIST = Get-Content .\names.txt
 # ------------------------------------------------------ #
